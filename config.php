@@ -1,18 +1,10 @@
 <?php
 $config = array(
-    'dbHost' => '127.0.0.1',
-    'dbUser' => 'root',
-    'dbPwd' => '123456',
-    'database' => 'xssplatform',
     'charset' => 'utf8',
     'tbPrefix' => 'oc_',
     'dbType' => 'mysql',
     'register' => 'normal',
     'mailauth' => false,
-    'urlroot' => 'http://lyj.xssplatform.net',
-    'urlrewrite' => false,
-    'filepath' => 'D:/phpstudy_pro/WWW/xssplatform/upload',
-    'fileprefix' => 'http://lyj.xssplatform.net/upload',
     'theme' => 'default',
     'template' => 'default',
     'show' =>
