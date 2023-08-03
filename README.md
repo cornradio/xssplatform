@@ -1,3 +1,6 @@
+## 声明
+站点源自 https://github.com/78778443/xssplatform
+本人fork仅为学习研究使用。
 
 ## 搭建
 1. 使用小皮面板，创建一个站点、创建一个xssplatform数据库
